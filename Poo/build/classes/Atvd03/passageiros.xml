@@ -1,0 +1,37 @@
+<passageiros>
+    <passageiro>
+        <nome>Pedro Arruda</nome>
+        <idade>21</idade>
+        <ticket>12345</ticket>
+        <origem>Campina Grande</origem>
+        <destino>João Pessoa</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Gabriel Pessoa</nome>
+        <idade>22</idade>
+        <ticket>67890</ticket>
+        <origem>Campina Grande</origem>
+        <destino>João Pessoa</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Carlos Santos</nome>
+        <idade>45</idade>
+        <ticket>54321</ticket>
+        <origem>Porto Alegre</origem>
+        <destino>Curitiba</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Laura Ferreira</nome>
+        <idade>28</idade>
+        <ticket>98765</ticket>
+        <origem>Belo Horizonte</origem>
+        <destino>Recife</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Pedro Almeida</nome>
+        <idade>22</idade>
+        <ticket>56789</ticket>
+        <origem>Fortaleza</origem>
+        <destino>Manaus</destino>
+    </passageiro>
+</passageiros>

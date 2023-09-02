@@ -1,0 +1,5 @@
+package aula.jdbc;
+
+public class Conexao {
+
+}
