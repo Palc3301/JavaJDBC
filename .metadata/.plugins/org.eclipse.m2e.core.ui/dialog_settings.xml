@@ -14,7 +14,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
-		<item key="catalog" value="All Catalogs"/>
+		<item key="catalog" value="internal"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -26,13 +26,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.unifacisa.Aula04"/>
+			<item value="com.br.mongo.Prova03"/>
+			<item value="com.br.mongo.mongo"/>
+			<item value="co.br.biblioteca.JPA_PostgreSQL"/>
 		</list>
 		<list key="groupId">
-			<item value="com.unifacisa"/>
+			<item value="com.br.mongo"/>
+			<item value="co.br.biblioteca"/>
 		</list>
 		<list key="artifactId">
-			<item value="Aula04"/>
+			<item value="Prova03"/>
+			<item value="mongo"/>
+			<item value="JPA_PostgreSQL"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -68,5 +73,7 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
 	</section>
 </section>

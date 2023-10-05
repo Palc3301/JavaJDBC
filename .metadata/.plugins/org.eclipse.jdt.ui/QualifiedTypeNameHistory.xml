@@ -1,2 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="log.Log"/>
+    <fullyQualifiedTypeName name="util.JPAUtil"/>
+    <fullyQualifiedTypeName name="dao.LivroDAO"/>
+    <fullyQualifiedTypeName name="dao.CategoriaDAO"/>
+    <fullyQualifiedTypeName name="dao.EditoraDAO"/>
+    <fullyQualifiedTypeName name="dao.AutorDAO"/>
+    <fullyQualifiedTypeName name="com.br.biblioteca.JPA_PostgreSQL.model.Categoria"/>
+    <fullyQualifiedTypeName name="com.br.biblioteca.JPA_PostgreSQL.model.Editora"/>
+    <fullyQualifiedTypeName name="com.br.biblioteca.JPA_PostgreSQL.model.Autor"/>
+    <fullyQualifiedTypeName name="com.br.biblioteca.JPA_PostgreSQL.model.Livro"/>
+    <fullyQualifiedTypeName name="org.bson.codecs.pojo.PojoCodecProvider"/>
+    <fullyQualifiedTypeName name="com.mongodb.MongoClient"/>
+    <fullyQualifiedTypeName name="com.mongodb.MongoClientOptions"/>
+    <fullyQualifiedTypeName name="model.Produto"/>
+</qualifiedTypeNameHistroy>
